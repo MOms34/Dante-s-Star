@@ -20,7 +20,7 @@ Solver : Récuperer un ficher texte contenant un labyrinthe, et trouver la solit
 
 ```
 	. Toute la libC
-``
+```
 
 ## Mise en route
 
@@ -53,6 +53,7 @@ Partie Generator :
 
 Partie Solver :
 ./solver/solver maze.txt
+
 ```
 
 ## Captures d'écrans
